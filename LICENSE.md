@@ -1,4 +1,4 @@
-# 
+# secure bitmex trading bot scripts is the best bitmex trading bot scripts with isolated-margin and scalping. Safe, reliable, and optimized for CEX, DEX, and algorithmic trading
 
 
 
